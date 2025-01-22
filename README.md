@@ -1,1 +1,0 @@
-# https-github.com-ola-ct-Qt-SESAM
